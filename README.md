@@ -1,5 +1,3 @@
-# yli099_labs
-
 # Hi, I'm YL 👋
 
 I design and rebuild data systems so that AI can actually work in real-world environments.
