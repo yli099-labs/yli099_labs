@@ -1,4 +1,4 @@
-# Hi, I'm YL 👋
+Hi, I'm YL 👋
 
 I design and rebuild data systems so that AI can actually work in real-world environments.
 
